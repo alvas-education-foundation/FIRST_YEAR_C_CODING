@@ -1,0 +1,18 @@
+
+Employee ID = 101
+
+
+
+Employee Name = GAYATHRI
+
+
+
+Employee Salary = 25000.00
+
+
+
+Student Roll No = 1
+
+
+
+Student Name = GAYATHRI
