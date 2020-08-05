@@ -1,0 +1,79 @@
+
+Student Roll No = 10
+1
+
+
+Student Name = GAYATHRI
+
+
+
+Student Roll No = 102
+
+
+
+Student Name = CHAITHRA
+
+
+
+Student Roll No = 103
+
+
+
+Student Name = AMISHA
+
+
+
+Student Roll No = 104
+
+
+
+Student Name = MANISHA
+
+
+
+Student Roll No = 105
+
+
+
+Student Name = JEEVITHA
+
+
+
+Student Roll No = 106
+
+
+
+Student Name = SWASTHIK
+
+
+
+Student Roll No = 107
+
+
+
+Student Name = UPASANA
+
+
+
+Student Roll No = 108
+
+
+
+Student Name = MAYOORI
+
+
+
+Student Roll No = 109
+
+
+
+Student Name = LATHESH
+
+
+
+Student Roll No = 110
+
+
+
+Student Name = BHAGI
+
